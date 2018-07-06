@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/edu-ch1/edu-ch1.iml" filepath="$PROJECT_DIR$/edu-ch1/edu-ch1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/edu-common/edu-common.iml" filepath="$PROJECT_DIR$/edu-common/edu-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/edu-main/edu-main.iml" filepath="$PROJECT_DIR$/edu-main/edu-main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/edu-start/edu-start.iml" filepath="$PROJECT_DIR$/edu-start/edu-start.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-edu.iml" filepath="$PROJECT_DIR$/springboot-edu.iml" />
+    </modules>
+  </component>
+</project>
