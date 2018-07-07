@@ -23,6 +23,7 @@
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
         <module name="edu-ch1" />
+        <module name="edu-ch2" />
         <module name="edu-common" />
         <module name="edu-main" />
         <module name="edu-start" />
@@ -30,6 +31,7 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="edu-ch1" target="1.7" />
+      <module name="edu-ch2" target="1.7" />
       <module name="edu-common" target="1.7" />
       <module name="edu-main" target="1.5" />
       <module name="edu-start" target="1.7" />

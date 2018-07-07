@@ -15,6 +15,7 @@
         <module>edu-main</module>
         <module>edu-start</module>
         <module>edu-ch1</module>
+        <module>edu-ch2</module>
     </modules>
 
     <properties>
