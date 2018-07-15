@@ -44,6 +44,9 @@ spring-boot添加新模块步骤：
 
 6、将新增模块中的resources目录文件修改成资源文件目录：
     File ---> Project Structrue ---> 选中需要修改的模块将其目录进行修改  即可...
+    
+
+7、修改Controll中的路径映射;    
 
 
 

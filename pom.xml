@@ -19,6 +19,7 @@
         <module>edu-ch3-logback</module>
         <module>edu-ch3-log4j</module>
         <module>edu-ch4-freemarker</module>
+        <module>edu-ch4-thymeleaf</module>
     </modules>
 
     <properties>

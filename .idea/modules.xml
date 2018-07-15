@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/edu-ch3-log4j/edu-ch3-log4j.iml" filepath="$PROJECT_DIR$/edu-ch3-log4j/edu-ch3-log4j.iml" />
       <module fileurl="file://$PROJECT_DIR$/edu-ch3-logback/edu-ch3-logback.iml" filepath="$PROJECT_DIR$/edu-ch3-logback/edu-ch3-logback.iml" />
       <module fileurl="file://$PROJECT_DIR$/edu-ch4-freemarker/edu-ch4-freemarker.iml" filepath="$PROJECT_DIR$/edu-ch4-freemarker/edu-ch4-freemarker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/edu-ch4-thymeleaf/edu-ch4-thymeleaf.iml" filepath="$PROJECT_DIR$/edu-ch4-thymeleaf/edu-ch4-thymeleaf.iml" />
       <module fileurl="file://$PROJECT_DIR$/edu-common/edu-common.iml" filepath="$PROJECT_DIR$/edu-common/edu-common.iml" />
       <module fileurl="file://$PROJECT_DIR$/edu-main/edu-main.iml" filepath="$PROJECT_DIR$/edu-main/edu-main.iml" />
       <module fileurl="file://$PROJECT_DIR$/edu-start/edu-start.iml" filepath="$PROJECT_DIR$/edu-start/edu-start.iml" />
