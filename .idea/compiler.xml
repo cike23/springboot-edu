@@ -22,16 +22,24 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
+        <module name="deu-ch3-logback" />
         <module name="edu-ch1" />
         <module name="edu-ch2" />
+        <module name="edu-ch3-log4j" />
+        <module name="edu-ch3-logback" />
+        <module name="edu-ch4-freemarker" />
         <module name="edu-common" />
         <module name="edu-main" />
         <module name="edu-start" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="deu-ch3-logback" target="1.7" />
       <module name="edu-ch1" target="1.7" />
       <module name="edu-ch2" target="1.7" />
+      <module name="edu-ch3-log4j" target="1.7" />
+      <module name="edu-ch3-logback" target="1.7" />
+      <module name="edu-ch4-freemarker" target="1.7" />
       <module name="edu-common" target="1.7" />
       <module name="edu-main" target="1.5" />
       <module name="edu-start" target="1.7" />

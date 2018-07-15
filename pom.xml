@@ -16,6 +16,9 @@
         <module>edu-start</module>
         <module>edu-ch1</module>
         <module>edu-ch2</module>
+        <module>edu-ch3-logback</module>
+        <module>edu-ch3-log4j</module>
+        <module>edu-ch4-freemarker</module>
     </modules>
 
     <properties>
